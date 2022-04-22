@@ -4,7 +4,7 @@ My [Hopper Disassembler](https://www.hopperapp.com/) scripts.
 ### 1. Generate Patch Command
 Generate a [dd](https://en.wikipedia.org/wiki/Dd_(Unix)) command to patch binary excutables.
 
-Will print to the Hopper console and copy to clipboard
+Usage: Make a selection in HEX view then run this script, the generated command will print to the Hopper console and copied to clipboard.
 
 
 # Installation
